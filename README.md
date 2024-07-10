@@ -1,1 +1,1 @@
-This repository contains AI/ML assignments and projects done at SMU.
+This branch contains assignment done for ISSS604.

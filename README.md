@@ -1,2 +1,1 @@
-# AML2024
-This repository contains assignments and projects done for CS610 at SMU.
+This repository contains AI/ML assignments and projects done at SMU.

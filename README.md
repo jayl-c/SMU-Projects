@@ -1,1 +1,1 @@
-This repository contains AI/ML assignments and projects done at SMU.
+This repository contains assignments and projects done for CS610 at SMU.
